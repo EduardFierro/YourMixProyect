@@ -90,10 +90,11 @@
             font-style: italic;
             font-weight: bold;
             background-color: #FF0000;
+            font-size: large;
         }
         .auto-style52 {
             font-weight: bold;
-            font-size: medium;
+            font-size: large;
             background-color: #00FF00;
         }
     </style>
